@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+💖 [Donate via PayPal](https://paypal.me/aleksandarns1991)
+
 <!--
 **aleksandarns1991/aleksandarns1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

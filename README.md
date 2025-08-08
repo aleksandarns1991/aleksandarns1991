@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+If you find my projects useful, or simply appreciate my work, you can make a symbolic donation:
 [Donate via PayPal](https://paypal.me/aleksandarns1991)
 
 <!--
